@@ -1,7 +1,7 @@
 
 **Hi, I'm Ren.**
 
-I like Project Zomboid and I hate Java. I'm an artist and I prefer to rot in my room just watching YouTube and rethinking my life choices. I'm studying Information Technology in the big 2026 and aiming for who knows what.
+I like Project Zomboid and I hate Java. I am an artist who frequently draws my OCs on my scratched up pentablet and I prefer to rot in my room just watching YouTube and rethinking my life choices. I am currently studying Information Technology in the big 2026 and aiming for who knows what.
 
 ---
 
