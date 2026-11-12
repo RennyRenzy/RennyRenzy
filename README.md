@@ -3,7 +3,7 @@
 **Hi, I'm Ren.**
 
 <p align="left">
-  I like Project Zomboid and I hate Java. I am an artist who does art commissions or just draw for free on my scratched up pentablet while I rot in my room watching YouTube and rethinking my life choices. I am currently studying Information Technology in the big 2026 and aiming for who knows what.
+  I like Project Zomboid, Warframe, Mindustry, and I hate Java. I am an artist who does art commissions (I also draw for free) on my scratched up pentablet while I rot in my room watching YouTube and rethinking my life choices. I am currently studying Information Technology in the big 2026 and aiming for who knows what.
 </p>
 
 
