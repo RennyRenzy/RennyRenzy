@@ -20,7 +20,7 @@
 </p>
 
 <a href="https://github.com/RennyRenzy">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=400&size=15&duration=1500&pause=400&color=c7fff8&center=true&vCenter=true&width=900&height=20&lines=%3E+Java+sucks+lowkey;%3E+my+genuine+reaction;%3E+im+just+larping+atp;%3E+luv+my+rat;%3E+mreowmreowmreow;%3E+who+up+creepin+their+cast;%3E+i+include+tokens+on+my+codes" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=400&size=15&duration=1500&pause=400&color=c7fff8&center=true&vCenter=true&width=900&height=20&lines=%3E+Java+sucks+lowkey;%3E+my+genuine+reaction;%3E+im+just+larping+atp;%3E+hmu+if+you+want+something+drawn;%3E+luv+my+rat;%3E+mreowmreowmreow;%3E+i+include+tokens+on+my+codes" alt="typing animation" />
 </a>
 
 
