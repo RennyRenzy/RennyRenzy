@@ -8,7 +8,7 @@
 -->
 
 <a href="https://github.com/RennyRenzy">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=850&pause=2000&color=a6e0da&center=false&vCenter=true&width=640&height=40&lines=%3E+I+like+Project+Zomboid,+Warframe,+Mindustry,+and+I+hate+Java.;%3E+I'm+an+artist+and+I+do+art+commissions+(I+also+draw+for+free);%3E+I+like+to+rot+in+my+room;%3E+Currently+studying+Information+Technology+in+the+big+2026+bruh" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=850&pause=2000&color=7ff0e3&center=false&vCenter=true&width=640&height=40&lines=%3E+I+like+Project+Zomboid,+Warframe,+Mindustry,+and+I+hate+Java.;%3E+I'm+an+artist+and+I+do+art+commissions+(I+also+draw+for+free);%3E+I+like+to+rot+in+my+room;%3E+Currently+studying+Information+Technology+in+the+big+2026+bruh" alt="typing animation" />
 </a>
 
 
@@ -20,7 +20,7 @@
 </p>
 
 <a href="https://github.com/RennyRenzy">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=10&duration=2000&pause=500&color=79a7ad&center=true&vCenter=true&width=900&height=20&lines=%3E+Java+sucks+lowkey;%3E+my+genuine+reaction;%3E+im+just+larping+atp;%3E+luv+my+rat;%3E+mreowmreowmreow" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=10&duration=2000&pause=500&color=c7fff8&center=true&vCenter=true&width=900&height=20&lines=%3E+Java+sucks+lowkey;%3E+my+genuine+reaction;%3E+im+just+larping+atp;%3E+luv+my+rat;%3E+mreowmreowmreow;%3E+who+up+creepin+their+cast;%3E+i+include+tokens+on+my+codes" alt="typing animation" />
 </a>
 
 
