@@ -19,7 +19,9 @@
   <img width="557" height="197" alt="Screenshot 2026-08-15 192524" src="https://github.com/user-attachments/assets/cfa2c622-0965-47e4-91ad-ee4dbaadaf55" />
 </p>
 
-
+<a href="https://github.com/RennyRenzy">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=10&duration=2000&pause=500&color=79a7ad&center=true&vCenter=true&width=900&height=20&lines=%3E+Java+sucks+lowkey;%3E+my+genuine+reaction;%3E+im+just+larping+atp;%3E+luv+my+rat;%3E+mreowmreowmreow" alt="typing animation" />
+</a>
 
 
   
