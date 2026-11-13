@@ -1,11 +1,15 @@
 
-
-**Hi, I'm Ren.**
-
+**Hi, I'm Ren :D**
+<!--
 <p align="left">
   I like Project Zomboid, Warframe, Mindustry, and I hate Java. I am an artist who does art commissions (I also draw for free) on my scratched up pentablet while I rot in my room watching YouTube and rethinking my life choices. I am currently studying Information Technology in the big 2026 and aiming for who knows what.
 </p>
 
+-->
+
+<a href="https://github.com/RennyRenzy">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=850&pause=2000&color=a6e0da&center=false&vCenter=true&width=640&height=40&lines=%3E+I+like+Project+Zomboid,+Warframe,+Mindustry,+and+I+hate+Java.;%3E+I'm+an+artist+and+I+do+art+commissions+(I+also+draw+for+free);%3E+I+like+to+rot+in+my+room;%3E+Currently+studying+Information+Technology+in+the+big+2026+bruh" alt="typing animation" />
+</a>
 
 
 
