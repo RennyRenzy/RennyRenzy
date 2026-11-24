@@ -9,7 +9,7 @@
 -->
 
 <a href="https://github.com/RennyRenzy">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=400&size=22&duration=850&pause=2000&color=7ff0e3&center=false&vCenter=true&width=900&height=40&lines=%3E+I+like+Project+Zomboid,+Warframe,+Mindustry,+and+I+hate+Java.;%3E+I'm+an+artist+and+I+do+art+commissions+(I+also+draw+for+free);%3E+I+like+to+rot+in+my+room;%3E+Currently+studying+Information+Technology+in+the+big+2026+bruh" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=400&size=22&duration=850&pause=2000&color=7ff0e3&center=false&vCenter=true&width=900&height=40&lines=%3E+I+like+Project+Zomboid,+Warframe,+Mindustry,+and+I+hate+Java.;%3E+I'm+an+artist+and+I+do+art+commissions+(often+for+free);%3E+I+like+to+rot+in+my+room;%3E+Currently+studying+Information+Technology+in+the+big+2026+bruh" alt="typing animation" />
 </a>
 
 
